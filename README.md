@@ -7,10 +7,10 @@ Windows Server infrastructure. I made this as a hands-on guide while
 learning Active Directory, DNS, DHCP, File Server, and basic
 RedHat Linux administration using Oracle VirtualBox.
 
-Note: Everything here was done in a virtual lab environment — no real
-networks or production systems were involved.
+Note: Everything here was done in a virtual lab environment (no real
+networks or production systems were involved.)
+<br><br>
 
-----------------------------------------------------------------------------
 ## A few things to note before reading
 + The examples inside are **not in strict sequence**. Some sections
   use different IP addresses, subnet configurations, or domain names
@@ -19,15 +19,15 @@ networks or production systems were involved.
   different one when demonstrating DNS (this is intentional, not
   an error.)
 
-+ I used **names of celebrities/ random names** as sample
++ I used **celebrities/ made-up names** as sample
   user accounts (for Active Directory user creation, group policies,
   etc.). These are just placeholder names I used to make the lab
   scenarios feel more realistic and easier to follow.
 
 + The passwords shown (like P@ssw0rd1) are **default lab passwords**
   used only inside the virtual environment for practice.
-  
-----------------------------------------------------------------------------
+<br><br>
+
 ## Topics covered
 **Windows Server**
 - Installing Windows Server 2016 Data Center on VirtualBox
@@ -59,7 +59,6 @@ networks or production systems were involved.
 - Basic commands (file management, permissions, users)
 - Ownership, group management, and process handling
 
-----------------------------------------------------------------------------
 ## Tools used
 - Oracle VirtualBox
 - Windows Server 2016 Data Center
@@ -67,8 +66,8 @@ networks or production systems were involved.
 - Group Policy Management Console
 - DNS Server / DHCP Server
 - RedHat Linux
+<br><br>
 
-----------------------------------------------------------------------------
 ## Here is the link to the full notes
 The complete step-by-step documentation with screenshots:
-[Notes-Active Directory Domain Services.pdf](Notes-Active Directory Domain Services.pdf)
+[Notes-Active Directory Domain Services.pdf](Notes-Active-Directory-Domain-Services.pdf)
